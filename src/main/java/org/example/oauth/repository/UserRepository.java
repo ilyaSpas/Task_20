@@ -1,4 +1,4 @@
-package org.example.oauth;
+package org.example.oauth.repository;
 
 import org.example.oauth.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
